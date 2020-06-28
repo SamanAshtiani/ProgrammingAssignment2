@@ -1,4 +1,5 @@
-
+setwd("/Users/saman/Dropbox/coursera/r_johns_hopkins/week3/")
+getwd()
 
 
 
