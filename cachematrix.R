@@ -29,6 +29,6 @@ cacheSolve <- function(x, ...) {
   }
   mat <- x$get_mat()
   inv <- solve(mat, ...)
-  my_matrix$set_inv(inv)
+  x$set_inv(inv)
   inv
 }
